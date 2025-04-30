@@ -16,8 +16,8 @@ I am a lifelong learner, a team player, and someone who thrives on solving compl
 
 ## 🛠️ Key Projects
 
-- **T20 Score Predictor:** Built a machine learning model to forecast cricket scores using historical match data and live input features.
-- **Predictive Maintenance:** Developed a predictive model to forecast equipment failure using IoT sensor data.
+- **T20 Score Predictor:** Built a machine learning model to forecast cricket scores using historical match data.
+- **Predictive Maintenance:** Developed a predictive model to predict machine failures beforehand.
 - **YouTube Channel Comparator:** Created a tool using the YouTube API to compare multiple channels on key metrics, with data visualization.
 
 ---
